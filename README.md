@@ -1,14 +1,26 @@
-# Data-Cleaning-and-Reporting-Automation-using-Python-and-Power-BI
-Data Cleaning & Reporting Automation Project
+# Data Cleaning & Reporting Automation Project
 
-Objective:
-Automate data cleaning and reporting using Python and Power BI.
+## Objective
+To automate data cleaning and reporting using Python and Power BI.
 
-Tasks:
-1. Data cleaning
-2. Report generation
-3. Visualization
-4. Dashboard creation
+## Tasks Completed
+- Data cleaning (handling missing values, duplicates)
+- Data preprocessing and transformation
+- Automated report generation
+- Data visualization using charts
+- Power BI dashboard creation
 
-Tools:
-Python, Pandas, Matplotlib, Power BI
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Power BI
+
+## Output Files
+- cleaned_data.csv
+- report.csv
+- chart.png
+- Power BI dashboard (.pbix)
+
+## Outcome
+Built an automated pipeline that converts raw data into clean data and meaningful insights through reports and dashboards.
